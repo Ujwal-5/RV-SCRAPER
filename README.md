@@ -24,7 +24,7 @@ nest-asyncio
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ujwal-5/RV-SCRAPER.git
 cd rv-scraper
 ```
 
